@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    /* font-family: sans-serif; */
+}
+
+/* p {
+    transform: translateX(-100px);
+} */
+
+.popup {
+    background-color: black;
+    color: white;
+    position: relative;
+    display: flexbox;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    top: 40%;
+    left: 40%;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10;
+    transition-duration: 0.2s;
+    transition-property: opacity, transform;
+}
+
+.hide {
+    opacity: 0;
+    display: inline;
+    transform: translateY(-10px);
+}
+
+.show {
+    opacity: 1;
+    display: inline;
+    transform: translateY(0px);
+}
+
+.webgl {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+header {
+    color: white;
+    z-index: 2;
+    position: relative;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: flex-end;
+    padding: 1px 5%;
+    background: rgba(40, 59, 64, 0.473);
+}
+
+.logo {
+    font-weight: bold;
+    color: white;
+    margin-right: auto;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+
+select {
+    color: white;
+    width: 10em;
+    background-color: rgba(40, 59, 64, 0.473);
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+button {
+    color: white;
+    justify-content: center;
+    background-color: rgba(40, 59, 64, 0.473);
+    border: 2px solid #61b6d0;
+    border-radius: 50px;
+    margin: 8px 30px;
+    padding: 6px 20px;
+}

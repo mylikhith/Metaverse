@@ -1,0 +1,11 @@
+Model Information:
+* title:	African Wild Dog
+* source:	https://sketchfab.com/3d-models/african-wild-dog-0c8d82a38a304d9280b5687dd02b6861
+* author:	JohnMesplay (https://sketchfab.com/JohnMesplay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "African Wild Dog" (https://sketchfab.com/3d-models/african-wild-dog-0c8d82a38a304d9280b5687dd02b6861) by JohnMesplay (https://sketchfab.com/JohnMesplay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

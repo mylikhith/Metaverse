@@ -1,0 +1,23 @@
+{
+  "name": "metaverseproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@parcel/config-default": "^2.8.2",
+    "web3": "^1.8.1"
+  },
+  "staticFiles": {
+    "staticOutPath": "assets"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "parcel-reporter-static-files-copy": "^1.4.0"
+  }
+}

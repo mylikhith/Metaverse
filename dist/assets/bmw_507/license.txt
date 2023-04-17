@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bmw 507
+* source:	https://sketchfab.com/3d-models/bmw-507-c17bed8eb1324788a322ea5053f3c582
+* author:	hsevencg (https://sketchfab.com/hsevencg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bmw 507" (https://sketchfab.com/3d-models/bmw-507-c17bed8eb1324788a322ea5053f3c582) by hsevencg (https://sketchfab.com/hsevencg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
